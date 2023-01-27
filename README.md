@@ -25,3 +25,4 @@ ChatGPT QA System will reply your question on the thread, using ChatGPT, on Slac
    CHATGPT_CONF_PATH=/path/to/config.json
    MIN_INTERVAL=5
    ```
+3. prepare `bin/chromedriver`
