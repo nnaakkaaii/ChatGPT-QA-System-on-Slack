@@ -26,3 +26,9 @@ ChatGPT QA System will reply your question on the thread, using ChatGPT, on Slac
    MIN_INTERVAL=5
    ```
 3. prepare `bin/chromedriver`
+4. prepare venv
+   ```shell
+   $ python3 -m venv .venv
+   $ source .venv/bin/activate
+   $ pip3 install -r requirements.txt
+   ```
